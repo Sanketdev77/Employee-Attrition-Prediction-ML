@@ -270,6 +270,4 @@ GitHub: https://github.com/Sanketdev77
 
 ---
 
-## License
-
-This project is intended for educational and portfolio purposes.
+If you found this project helpful, consider giving it a Star!
