@@ -209,14 +209,10 @@ employee-attrition-prediction-ml/
 ├── notebooks/
 │   └── Employee_Attrition_Prediction.ipynb
 │
-├── models/
-│   ├── employee_attrition_model.pkl
-│   └── scaler.pkl
-│
-├── images/
-│   ├── correlation_heatmap.png
-│   ├── feature_importance.png
-│   └── confusion_matrix.png
+├── docs/
+│   ├── 
+│   ├── 
+│   └── 
 │
 ├── requirements.txt
 ├── README.md
